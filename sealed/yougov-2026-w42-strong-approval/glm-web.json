@@ -1,0 +1,13 @@
+{
+  "cipher": "age-v1-x25519",
+  "ciphertext": "YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB4NXpPSVRHMWViS3lHcGlIekxUWlpVN1l0cENBbS8wU2dka08xSlgvekRnCkFyd2YyQjFGc2VaSFJZWlcvVVlueHhpaldDejI0Wks4TlFvLzZYZWt3dnMKLT4gZXp0LWdyZWFzZSAwIEpCWiBhIGpcCnk2Mm04ZwotLS0gOWdzaUx6cEM4LzRsYitOUTQvUFZOaHZiQTJqNFBTcDRaQ3Q0ZjNRSGo4TQqVCqTNNuVHFU2mWjAAtrO8eo1yYUvniK8liddJ4el3Gv/SbFXYUHWpPdc0uoFo0c7bOEbiovswJzyAuk+JLhZViQWCxgKb/fDFH2eZQ8r/udPxMPQwGJDAzAAkgtYnNYgaW9RgoJAD+UDXoUQq6KWKtFhLS7u3OLINkT/gobnoA71+qzRx1Ppikjq/OQ5nZXyuvlWgihApEtdNRh2LCo9PmkLZBcTtZec8jm3/XmZmbli0S0tPM/1dHUeby+e5HsWOaoVK67aWRr1eflhlfVTs3+mOZd9rXsBOrYyo00VRXyL9MotVvvlbvSq8/P9pcdpF8EdT2sCUlsSrol5nzxC8SbG/5QZT3SXCOhd71UcNpkKCZacb3Y3DvDJ9V8bVMEUdAr6EjZBv5oMav5p8iP5FFcDWyu3sDUby4wGN/p51Qf20HqDr/gElCpzdLbmsDvib4+nshe2WA4YimCFtRA==",
+  "commitment_sha256": "a50cc2fe17cb755124c953f06a0a3f569e5d51d820c28555f31ff42e44d7ccab",
+  "domain": "social-sim-arena/forecast-seal/v1",
+  "encryption_key_id": "prod-age-1",
+  "entrant": "glm-web",
+  "key_id": "ssa-live",
+  "received_at": "2026-10-11T05:43:32Z",
+  "round_id": "yougov-2026-w42-strong-approval",
+  "signature": "4/4cjqP0kkmdFXlmMO+IaNu6jCjsybpI5WOzJXXHq+ccCP14zUDKU1BBvJRSshSPtddbiCgSMyNUmS3pNAv2Dg==",
+  "version": 1
+}
