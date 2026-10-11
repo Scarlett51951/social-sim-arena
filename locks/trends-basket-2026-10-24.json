@@ -1,5 +1,5 @@
 {
-  "answer_frozen_at": "2026-10-10T21:57:16Z",
+  "answer_frozen_at": "2026-10-11T12:48:14Z",
   "answer_history": [
     {
       "date": "2025-08-23",
@@ -236,6 +236,10 @@
     {
       "date": "2026-10-03",
       "value": 42.97
+    },
+    {
+      "date": "2026-10-10",
+      "value": 41.18
     }
   ],
   "answer_history_by_cell": {
@@ -475,6 +479,10 @@
       {
         "date": "2026-10-03",
         "value": 17.97
+      },
+      {
+        "date": "2026-10-10",
+        "value": 19.33
       }
     ],
     "trends_share_iphone": [
@@ -713,6 +721,10 @@
       {
         "date": "2026-10-03",
         "value": 42.97
+      },
+      {
+        "date": "2026-10-10",
+        "value": 41.18
       }
     ],
     "trends_share_netflix": [
@@ -951,6 +963,10 @@
       {
         "date": "2026-10-03",
         "value": 18.75
+      },
+      {
+        "date": "2026-10-10",
+        "value": 18.49
       }
     ],
     "trends_share_samsung": [
@@ -1189,6 +1205,10 @@
       {
         "date": "2026-10-03",
         "value": 10.94
+      },
+      {
+        "date": "2026-10-10",
+        "value": 11.76
       }
     ],
     "trends_share_tesla": [
@@ -1427,6 +1447,10 @@
       {
         "date": "2026-10-03",
         "value": 9.38
+      },
+      {
+        "date": "2026-10-10",
+        "value": 9.24
       }
     ]
   },
@@ -1666,10 +1690,14 @@
     {
       "date": "2026-10-03",
       "value": 42.97
+    },
+    {
+      "date": "2026-10-10",
+      "value": 41.18
     }
   ],
   "lock_at": "2026-10-16T14:00:00Z",
-  "observed_at": "2026-10-10T21:57:16Z",
+  "observed_at": "2026-10-11T12:48:14Z",
   "round_id": "trends-basket-2026-10-24",
   "series": "trends_share_iphone"
 }
