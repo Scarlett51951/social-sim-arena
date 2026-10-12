@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "uM9jAnmTYcEreEcQLR5iFCfKCM2m3rW7X7ZGQ7B6zUU=",
+  "entrant": "gpt-5.6-luna-web",
+  "round_id": "yougov-2026-w42-strong-approval",
+  "sealed_receipt": "sealed/yougov-2026-w42-strong-approval/gpt-5.6-luna-web.json",
+  "version": 1
+}

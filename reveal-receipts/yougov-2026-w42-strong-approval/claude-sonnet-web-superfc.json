@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "BlFZ8V/GdoX9FMjQVBr1RQx1bytdD2RZduBopFWgyiA=",
+  "entrant": "claude-sonnet-web-superfc",
+  "round_id": "yougov-2026-w42-strong-approval",
+  "sealed_receipt": "sealed/yougov-2026-w42-strong-approval/claude-sonnet-web-superfc.json",
+  "version": 1
+}

@@ -1,0 +1,71 @@
+{
+  "entrant": "zhengzheng-agent",
+  "notes": "filed=2026-10-10T21:41Z, ssa-agent, agent-api ssa-agent-api-v2, via=participant; in=814eca97b07a",
+  "profile": {
+    "yougov_xtab_approve_age_30_44": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_age_45_64": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_age_65_up": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_age_under_30": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_dem": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_edu_college_grad": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_edu_hs_or_less": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_edu_postgrad": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_edu_some_college": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_female": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_ind": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_male": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_race_black": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_race_hispanic": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_race_white": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    },
+    "yougov_xtab_approve_rep": {
+      "mean": 2.8578878728887345,
+      "sd": 1.5
+    }
+  },
+  "round_id": "yougov-xtab-2026-w42"
+}

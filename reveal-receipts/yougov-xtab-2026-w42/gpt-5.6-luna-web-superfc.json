@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "DtUehDSDLY9M8P909bEM12RwTBbBOKMvAiPya9gURpE=",
+  "entrant": "gpt-5.6-luna-web-superfc",
+  "round_id": "yougov-xtab-2026-w42",
+  "sealed_receipt": "sealed/yougov-xtab-2026-w42/gpt-5.6-luna-web-superfc.json",
+  "version": 1
+}

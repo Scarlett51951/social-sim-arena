@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "1HC1BdTdUkiQiJYf9q9W1WrsnlRGrmWiLDeZvG3qhKs=",
+  "entrant": "claude-sonnet-web",
+  "round_id": "yougov-2026-w42-rv-approval",
+  "sealed_receipt": "sealed/yougov-2026-w42-rv-approval/claude-sonnet-web.json",
+  "version": 1
+}

@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "Q4FlSMiZPmC823CqGD5pm9tjO5n09KBTbENp51NtYSw=",
+  "entrant": "test-jay",
+  "round_id": "yougov-2026-w42-rv-approval",
+  "sealed_receipt": "sealed/yougov-2026-w42-rv-approval/test-jay.json",
+  "version": 1
+}

@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "QydfFWTB2nUVy1QKiaFPW13gDcnyCgCgsYOzaMdOoMI=",
+  "entrant": "claude-sonnet-web",
+  "round_id": "yougov-xtab-2026-w42",
+  "sealed_receipt": "sealed/yougov-xtab-2026-w42/claude-sonnet-web.json",
+  "version": 1
+}

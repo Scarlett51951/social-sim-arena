@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "IbtlISzQeWB6uQElym/xr57kJt3G2Ysd78iAlDz4JOQ=",
+  "entrant": "test-jay",
+  "round_id": "yougov-xtab-2026-w42",
+  "sealed_receipt": "sealed/yougov-xtab-2026-w42/test-jay.json",
+  "version": 1
+}

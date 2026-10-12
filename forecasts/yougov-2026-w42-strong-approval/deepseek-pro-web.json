@@ -1,0 +1,9 @@
+{
+  "entrant": "deepseek-pro-web",
+  "notes": "filed=2026-10-10T21:44Z, deepseek-v4-pro, harness v1, via=ppapi, effort=default, context=web elicitation=direct, 1 sample; in=35ba56b776a1",
+  "round_id": "yougov-2026-w42-strong-approval",
+  "topline": {
+    "mean": 20.0,
+    "sd": 2.5
+  }
+}

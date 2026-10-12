@@ -1,0 +1,9 @@
+{
+  "entrant": "claude-sonnet-web-superfc",
+  "notes": "filed=2026-10-10T21:42Z, claude-sonnet-5, harness v1, via=ppapi, effort=default, context=web elicitation=superfc, 1 sample; in=34f1c52e5244",
+  "round_id": "yougov-2026-w42-rv-approval",
+  "topline": {
+    "mean": 37.2,
+    "sd": 2.0
+  }
+}
