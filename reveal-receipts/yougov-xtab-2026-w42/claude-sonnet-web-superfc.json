@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "UmpRajISUOW0Yqj6OsFt2/JyR8hdgQseLzi7c0pqYE8=",
+  "entrant": "claude-sonnet-web-superfc",
+  "round_id": "yougov-xtab-2026-w42",
+  "sealed_receipt": "sealed/yougov-xtab-2026-w42/claude-sonnet-web-superfc.json",
+  "version": 1
+}

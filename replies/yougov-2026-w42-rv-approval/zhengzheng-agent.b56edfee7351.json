@@ -1,8 +1,11 @@
 {
-  "cipher": "age-v1-x25519",
-  "ciphertext": "YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSAySVc3V2R5VE5RQkwySEtCQnpGV1FiYXRwbHNMZko0ajBhaWdUN1dUejFFCk9TazNYOXNIblpsU2IweG1ONEZycVRicHh1a2tnRXB4em5TQlU0Y0hQVE0KLT4gOGIsSCQtZ3JlYXNlCmRJK0lPZFJJVSt3cDV1ajV3K0dOOG5jbWJiakJScEVNb1QwSmtoK1ltZXpBbC9ZNVNMOURYalBXZlEKLS0tIG9uMStVYVdXWVV4VHdaSFFHcHRYcFZ6QmNYdXpoUkJHQkF5TzBJT21iQkUKb+6DN2oxsUw4sS5b1g9m+ZS8soZq16nTiB4luHVtVTfwKXBo6AmUxydVG99qF7CKqOXwST0UL6desRVzS0rCwB/ZOV7IgT3CxvESU1sc+uhRY3wZBHi8AdgSb6RyK4Ys5QXAuOvPdZUBEgCONA2yNutmLz1/qi9DKNRPSUHo5BBAwiBYlqgMC8A8W3WmSpi1UjRGG1+v8D9K9tOMVqBC6yXKZxxLZiAzqWiFUmab4djdMf1swDCzns1jX5BYrMz/fe2OZEDNHdD+4ZXBfgq2mQKGilFriiUlDgj37eSFvPOsjbCRijfqwkvPm+gfBcw6VlQGC1Cb5/iOxjHKRXrY2XN0iwd4qqV5QtEw0MIRpLY2Gx/vFv706g1UVJPPNeo83LzDU/B+enAC7oo64s9hkMqRkWkipyGhVEqtEEPtXYLj5bHgXaqmJtQRsiDksvKZTI4QQsCk3TzgBENjl8+q9KTEhTZChb0sS1BbuW1kVVvoi+0bDunYQ/5L8kGoKqPnOw1wt24w5+BBJTKDjcgTYoGwunJWzYF2wbUw",
-  "domain": "social-sim-arena/private-record/v1",
-  "encryption_key_id": "prod-age-1",
-  "kind": "provider-reply",
-  "version": 1
+  "entrant": "zhengzheng-agent",
+  "input_hash": "b56edfee7351",
+  "logged_at": "2026-10-10T21:42:21Z",
+  "model": "ssa-agent",
+  "prompt_sha256": "b8308b8e793b800d35c8d923ef2148c22af98325f715bbfd6fbc0a6a47b675e0",
+  "reply": "{\"schema_version\": \"ssa-agent-api-v2\", \"forecast\": {\"mean\": 37.42447822613288, \"sd\": 1.5}}",
+  "round_id": "yougov-2026-w42-rv-approval",
+  "usage": {},
+  "via": "participant"
 }

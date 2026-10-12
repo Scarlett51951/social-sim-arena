@@ -1,8 +1,15 @@
 {
-  "cipher": "age-v1-x25519",
-  "ciphertext": "YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBzT3NCNGV3amFUWnNpdzZ4K3FPKzc2bGYrdURLQkM4MVhySU9UVHdqY0NFClZLaXNZam9KcTRadXlFWTI2bUR5YVg2ZFBQZVJkeDdnQWxtK003N2xwTGsKLT4gWk99LWdyZWFzZSA1ZUdLLGogYT9MIGl+QStbb1U2CmRPamYySUlrRUE5YTdsZ1hHQQotLS0gZ2tDOWRwV2h2dk80ZTBmeEJIMHBZRGQ2UDZJNFZGTDUzMVh4MGpJR2ZQVQrI5ZZ6GgIiI9RBx8LPtL2ZTvxy6nRfArDMy5IClZ6+wYOmVqP7QBo239GqIpolGhf0tAQeTMac9jh+Bcr8x9JW5xd/nIIscGJYKnX0kIqtD1WTBVnAB5BnBIqpKckIGNOCNGkKk42xSsYjGI1ahFUcf23Hk8K5p/PESuioA5HqUp7kKk9T4XQOuBbK3m1dBCdHG0KjzQdSkK2Yh5iIT/VlJtM7AG+gtCIVhv27Hk1dhLpaTTcgzs0iOaVjiv6VZOwqJQaHwZ6o2v+slRbetQtdamtrZJLP0olBgfzpo6gKfW3iIehsxbx8linYHN/cVYVcDIqBDTNhfKbyJd+MFpjXcHxQPhTjaZNU8RScSzyGd244ke+IJEpQv2jCLSPPdlxHrVbQGjlP06IMQjagAXAkJYX158rtyxzcanO/ISAxH0QYoDegD+Q7mbnBIMkCYEbH1zKqd7vp1BjZbYBUhM7CB8Xk14oPMqiUGVfdjo89XkQ4BTOrYI0vfQvnOyJ+41lUo9U46wbSzjLRVsw=",
-  "domain": "social-sim-arena/private-record/v1",
-  "encryption_key_id": "prod-age-1",
-  "kind": "provider-reply",
-  "version": 1
+  "entrant": "grok-web-superfc",
+  "input_hash": "5930639ab338",
+  "logged_at": "2026-10-10T21:43:19Z",
+  "model": "grok-4.5",
+  "prompt_sha256": "c061f372295c2d80d438fc98af08e2e428867c90242db58691b144835a519b66",
+  "reply": "{\"mean\": 37.5, \"sd\": 2.5}",
+  "round_id": "yougov-2026-w42-rv-approval",
+  "usage": {
+    "input_tokens": 3313,
+    "output_tokens": 1268,
+    "thinking_tokens": 1252
+  },
+  "via": "ppapi"
 }

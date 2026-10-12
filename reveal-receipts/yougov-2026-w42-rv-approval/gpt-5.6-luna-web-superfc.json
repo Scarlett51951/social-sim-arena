@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "Ixyw4rHcnnIu7wcVXt/pcvQ/DIQkD1gleCv0o3n1ckM=",
+  "entrant": "gpt-5.6-luna-web-superfc",
+  "round_id": "yougov-2026-w42-rv-approval",
+  "sealed_receipt": "sealed/yougov-2026-w42-rv-approval/gpt-5.6-luna-web-superfc.json",
+  "version": 1
+}

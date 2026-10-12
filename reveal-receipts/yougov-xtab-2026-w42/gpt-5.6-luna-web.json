@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "TfEhnNCRcYh82dYknhcrGf9FgriLYfZ2E0Thc6Wzt0Q=",
+  "entrant": "gpt-5.6-luna-web",
+  "round_id": "yougov-xtab-2026-w42",
+  "sealed_receipt": "sealed/yougov-xtab-2026-w42/gpt-5.6-luna-web.json",
+  "version": 1
+}

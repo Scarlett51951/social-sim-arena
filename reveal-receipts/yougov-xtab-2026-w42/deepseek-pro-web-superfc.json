@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "X9zmEvf5D7giQBo2NW/9i4PWvz7LYxp6kdThu6/jAco=",
+  "entrant": "deepseek-pro-web-superfc",
+  "round_id": "yougov-xtab-2026-w42",
+  "sealed_receipt": "sealed/yougov-xtab-2026-w42/deepseek-pro-web-superfc.json",
+  "version": 1
+}

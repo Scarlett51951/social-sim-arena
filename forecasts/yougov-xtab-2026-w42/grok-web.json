@@ -1,0 +1,71 @@
+{
+  "entrant": "grok-web",
+  "notes": "filed=2026-10-10T21:42Z, grok-4.5, harness v1, via=ppapi, effort=default, context=web elicitation=direct, profile 16 cells, 1 sample; in=979317524331",
+  "profile": {
+    "yougov_xtab_approve_age_30_44": {
+      "mean": 32.5,
+      "sd": 2.6
+    },
+    "yougov_xtab_approve_age_45_64": {
+      "mean": 42.0,
+      "sd": 2.8
+    },
+    "yougov_xtab_approve_age_65_up": {
+      "mean": 42.3,
+      "sd": 2.1
+    },
+    "yougov_xtab_approve_age_under_30": {
+      "mean": 29.5,
+      "sd": 3.2
+    },
+    "yougov_xtab_approve_dem": {
+      "mean": 3.2,
+      "sd": 1.6
+    },
+    "yougov_xtab_approve_edu_college_grad": {
+      "mean": 34.3,
+      "sd": 2.3
+    },
+    "yougov_xtab_approve_edu_hs_or_less": {
+      "mean": 45.0,
+      "sd": 3.2
+    },
+    "yougov_xtab_approve_edu_postgrad": {
+      "mean": 31.5,
+      "sd": 3.5
+    },
+    "yougov_xtab_approve_edu_some_college": {
+      "mean": 37.2,
+      "sd": 2.7
+    },
+    "yougov_xtab_approve_female": {
+      "mean": 33.0,
+      "sd": 2.7
+    },
+    "yougov_xtab_approve_ind": {
+      "mean": 25.5,
+      "sd": 2.8
+    },
+    "yougov_xtab_approve_male": {
+      "mean": 43.5,
+      "sd": 2.3
+    },
+    "yougov_xtab_approve_race_black": {
+      "mean": 10.5,
+      "sd": 3.3
+    },
+    "yougov_xtab_approve_race_hispanic": {
+      "mean": 34.0,
+      "sd": 3.6
+    },
+    "yougov_xtab_approve_race_white": {
+      "mean": 43.5,
+      "sd": 2.2
+    },
+    "yougov_xtab_approve_rep": {
+      "mean": 79.5,
+      "sd": 2.7
+    }
+  },
+  "round_id": "yougov-xtab-2026-w42"
+}

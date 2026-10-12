@@ -1,0 +1,9 @@
+{
+  "entrant": "glm-web",
+  "notes": "filed=2026-10-11T05:43Z, glm-5.2, harness v1, via=ppapi, effort=default, context=web elicitation=direct, 1 sample; in=d9d315ecad2f",
+  "round_id": "yougov-2026-w42-strong-approval",
+  "topline": {
+    "mean": 19.5,
+    "sd": 2.8
+  }
+}

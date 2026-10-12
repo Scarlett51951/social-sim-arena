@@ -1,0 +1,9 @@
+{
+  "entrant": "worldvac-base",
+  "notes": "filed=2026-10-10T21:43Z, ssa-agent, agent-api ssa-agent-api-v2, via=participant; in=7ad6376a1096",
+  "round_id": "yougov-2026-w42-strong-approval",
+  "topline": {
+    "mean": 21.0,
+    "sd": 1.5
+  }
+}

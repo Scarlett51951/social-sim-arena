@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "0DSFfwFgMpiZ/aOJj5NBXn0dMIGNz+0BoShGr1Vpru0=",
+  "entrant": "claude-sonnet-web",
+  "round_id": "yougov-2026-w42-strong-approval",
+  "sealed_receipt": "sealed/yougov-2026-w42-strong-approval/claude-sonnet-web.json",
+  "version": 1
+}

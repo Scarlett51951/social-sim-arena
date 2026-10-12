@@ -1,0 +1,9 @@
+{
+  "entrant": "zhengzheng-agent",
+  "notes": "filed=2026-10-10T21:43Z, ssa-agent, agent-api ssa-agent-api-v2, via=participant; in=3fe8070ae3cf",
+  "round_id": "yougov-2026-w42-strong-approval",
+  "topline": {
+    "mean": 20.0883,
+    "sd": 2.25
+  }
+}

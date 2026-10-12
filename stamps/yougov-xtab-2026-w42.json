@@ -1,0 +1,30 @@
+{
+  "built_at": "2026-10-11T21:56:31Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 20,
+  "forecasts": {
+    "apodex-futureflow": "db7193af9f67594e816fc3025f42e0388e4d84f19bc7f13ff503907eb27ef7e0",
+    "claude-sonnet-web": "4ebc6e334e02ad56ffd98ccda7662dbfa46e5dedf8ba4db0a3bbc2e31360a4ec",
+    "claude-sonnet-web-superfc": "ad90c77b31f9b3c7c1e56efb12c1f54f7405ea14523de9ce2e18c20cb2910fa3",
+    "crowd": "e57413262a402523209653945a158d019682d14a3efaaf839988e6e8fab2d4c4",
+    "deepseek-pro-web": "a031958048259052aaa219483186bb8f6dde90b1ac2b88a23bddbf5533c2ec0f",
+    "deepseek-pro-web-superfc": "9435a8786fc011866666d59327862cb16e2bb63321e186b5e8e995fa44ac8f87",
+    "gemini-pro-web": "d53903e62962be2a7fa55ffa76c3f55157a83739b1686168f6c3599f917556d0",
+    "gemini-pro-web-superfc": "4272317afe1a1aa6ed614fedc9661b145750880b59104eaade8c38f7ee556cf1",
+    "glm-web": "bce962b05bef135e462a289408a3846759e9516854c1f552e3c47fd12d0390e2",
+    "glm-web-superfc": "521c919a22cc394c50407a82d8ecd180074cf2716bf460c3d5313693cf1170b9",
+    "gpt-5.6-luna-web": "9d7316f51c8b93b8ddd31be6c9c693575a892508eb32c6adfe18505b1346984f",
+    "gpt-5.6-luna-web-superfc": "f9c015965113f49d067169ffd8fc76764d792c4542ca076fdf835a36d15a847e",
+    "grok-web": "873364cad2ce09b005ee854f4535715e472a84387cca529882681a709f39d7ee",
+    "grok-web-superfc": "febcd789bf8a9ceb45b38cfe0c445882749f7ad50b9cdca4451ae02828735ad0",
+    "h2oai-marina": "beaa32ab719a64d657b2c9af54c3919ca2747dc6a4fd0611ab58639f8b6d2c0f",
+    "h2oai-superagent": "7ef4cb8c1364b294e518a507b21ed637bc3666665f04edb460534a65caf748e0",
+    "persistence": "3d0ec392800bc367a9b84ad934f989d1f1cfe234bad6278b449650c2c2498308",
+    "test-jay": "3b2c99cbbe69596f8586ec3dc9e11b37ca45257f3ddfea0af5c5e9c4e147c2b1",
+    "worldvac-base": "5b7d3ecfd181c13c6107b9c42bf58f2f6e13c567f04e4695873f6ded9e77d309",
+    "zhengzheng-agent": "6b6f7665bf210d962df5b43666e0d1b70b76815b05201b3fb9e045ec0e265727"
+  },
+  "lock_at": "2026-10-11T14:00:00Z",
+  "lock_snapshot_sha256": "6560be41c6710d9a29906a6c033a0fae79980b4edef389e8bb5883029e0b0527",
+  "round_id": "yougov-xtab-2026-w42"
+}

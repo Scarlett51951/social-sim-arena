@@ -1,0 +1,7 @@
+{
+  "commitment_salt": "optBD9vzoLvM5b6jSkarGb4kbhpPYtBv6+O7dBS7u7E=",
+  "entrant": "deepseek-pro-web-superfc",
+  "round_id": "yougov-2026-w42-rv-approval",
+  "sealed_receipt": "sealed/yougov-2026-w42-rv-approval/deepseek-pro-web-superfc.json",
+  "version": 1
+}

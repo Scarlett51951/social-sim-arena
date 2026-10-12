@@ -1,0 +1,33 @@
+{
+  "built_at": "2026-10-11T21:56:43Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 23,
+  "forecasts": {
+    "apodex-futureflow": "15acf39d86367fc8ad97ed1af886d88e76ce2f7f1614ae3b28ece07f6375010d",
+    "claude-sonnet-web": "6bcd0e790a54142c57d6af228f4159b339753428c5383b2ccfcd49589b536a95",
+    "claude-sonnet-web-superfc": "82e3cba805f51403ac9d02b7692161d0ddb66f022b6b96244d3665e589bb1e2c",
+    "climatology": "47cc64dd9c97b928bad83e1dfc57e39b13da9467bb9478eb3146e6552bc79eee",
+    "crowd": "1e992097e59634983fe3c673585a7ee491a3297322060154e120ebda96f94ce1",
+    "deepseek-pro-web": "b7e194cad46c73ced601630e7df9a362b483f905426afd893656d5e72a492f14",
+    "deepseek-pro-web-superfc": "052571e735cb0aab5a21bed1d2ab19f3f4115404d684d6cdd96310cdab213ef9",
+    "ewma": "9e9d4eea9c6f18edf92aba43486518a4b2ad65e258df361700871c1738c906aa",
+    "gemini-pro-web": "922ff3c3afb47e25ff01e37ad09b5b4f99df51aa2052c518980df8a17a3a65b1",
+    "gemini-pro-web-superfc": "d05bd8dd6ba89ee3d4977ce5af2df96e3a67c01fc9139df3b1c2d59ff9bd5dfd",
+    "glm-web": "a35109b08f5866bdb88f631748fcdce00b79bb9a63c26856ae6168893e0412db",
+    "glm-web-superfc": "3a991933d8fcc7dd8a1b63ceb5cfd205d3a86ab0ac27ead6eeaa2d0353b77b27",
+    "gpt-5.6-luna-web": "5ba7f5ec0e01b61aeb7fc2b2b09c37f2b8578599389bcd16373c224096064435",
+    "gpt-5.6-luna-web-superfc": "d55a766be5330999c4f608e6d5e4c1c78e46fc7decfb9727f51f06163b85863c",
+    "grok-web": "520a9e7e04015cc84681e1d85bb62c037b83a40bd102e0661e26b716f7329668",
+    "grok-web-superfc": "0f586640a0db8a23f063ed310b684cebba5cc7c4e7083bf67ee2526d5ac10523",
+    "h2oai-marina": "a43fc2662eff37d6cd61153339467493fec6d536abf999554bc70fa8b069d84f",
+    "h2oai-superagent": "93cba76455abef2591c779962e0b4e0160771db79bccaf843a22476ae3718e2d",
+    "persistence": "3d446b116e633eabcb37a6c3f978da9e93cb430964dd055ad8fcb46d0491955f",
+    "test-jay": "b84bd553ed9d7981097593c83fbb198142cdd30f98cef7b63cac4aadf600aa75",
+    "trend": "0e5f4978905dba92799c30481123a5e9ab3fe60a1471402360b429767136ed95",
+    "worldvac-base": "562fd0736f04b03b818ca2ce6d33c2d5d71eec15576d2b4c4386bd11634769a1",
+    "zhengzheng-agent": "8a1404420f9677466427388b7851c7f4e50aaa9ba6a2ce5bd7a6c4a2532cd0b8"
+  },
+  "lock_at": "2026-10-11T14:00:00Z",
+  "lock_snapshot_sha256": "569fe5e152e40363b3e540aa1f400907facb9d25ba57a325102a86f296a4cf1c",
+  "round_id": "yougov-2026-w42-rv-approval"
+}
